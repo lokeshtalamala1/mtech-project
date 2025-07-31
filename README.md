@@ -1,2 +1,2 @@
 # mtech-project
-M.Tech Project combining Retrieval-Augmented Generation, ML, and Cybersecurity intelligence.
+M.Tech Project where Artificial Intelligence integration with Wazuh SIEMs
