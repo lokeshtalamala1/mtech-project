@@ -1,0 +1,820 @@
+{
+  "_scroll_id": "FGluY2x1ZGVfY29udGV4dF91dWlkDnF1ZXJ5VGhlbkZldGNoPBZBWnNHQS1OT1RMLUlia2VpSE5WWTVnAAAAAAAACFsWWXBVdHZKMTFRSUNoLUdfWVlHRUVuURZDZXZTVnZOVFJSMkFkY2E3ZUxrMWlnAAAAAAAABYwWekM3dlV6ZERTdUs0TnZQOGpvRGtBQRYzc0hXT1hSUVR1LW1DTVpsOVpaQlNRAAAAAAAABMcWanViX0pwd3RTUG1uSFVPNVdEeGtwURYzc0hXT1hSUVR1LW1DTVpsOVpaQlNRAAAAAAAABMgWanViX0pwd3RTUG1uSFVPNVdEeGtwURYzc0hXT1hSUVR1LW1DTVpsOVpaQlNRAAAAAAAABMYWanViX0pwd3RTUG1uSFVPNVdEeGtwURZDZXZTVnZOVFJSMkFkY2E3ZUxrMWlnAAAAAAAABY0WekM3dlV6ZERTdUs0TnZQOGpvRGtBQRYzc0hXT1hSUVR1LW1DTVpsOVpaQlNRAAAAAAAABMoWanViX0pwd3RTUG1uSFVPNVdEeGtwURZDZXZTVnZOVFJSMkFkY2E3ZUxrMWlnAAAAAAAABZQWekM3dlV6ZERTdUs0TnZQOGpvRGtBQRZBWnNHQS1OT1RMLUlia2VpSE5WWTVnAAAAAAAACF0WWXBVdHZKMTFRSUNoLUdfWVlHRUVuURZBWnNHQS1OT1RMLUlia2VpSE5WWTVnAAAAAAAACF4WWXBVdHZKMTFRSUNoLUdfWVlHRUVuURZBWnNHQS1OT1RMLUlia2VpSE5WWTVnAAAAAAAACF8WWXBVdHZKMTFRSUNoLUdfWVlHRUVuURZBWnNHQS1OT1RMLUlia2VpSE5WWTVnAAAAAAAACFwWWXBVdHZKMTFRSUNoLUdfWVlHRUVuURZDZXZTVnZOVFJSMkFkY2E3ZUxrMWlnAAAAAAAABY4WekM3dlV6ZERTdUs0TnZQOGpvRGtBQRZBWnNHQS1OT1RMLUlia2VpSE5WWTVnAAAAAAAACGIWWXBVdHZKMTFRSUNoLUdfWVlHRUVuURYzc0hXT1hSUVR1LW1DTVpsOVpaQlNRAAAAAAAABMkWanViX0pwd3RTUG1uSFVPNVdEeGtwURZBWnNHQS1OT1RMLUlia2VpSE5WWTVnAAAAAAAACGEWWXBVdHZKMTFRSUNoLUdfWVlHRUVuURZDZXZTVnZOVFJSMkFkY2E3ZUxrMWlnAAAAAAAABY8WekM3dlV6ZERTdUs0TnZQOGpvRGtBQRZDZXZTVnZOVFJSMkFkY2E3ZUxrMWlnAAAAAAAABZAWekM3dlV6ZERTdUs0TnZQOGpvRGtBQRZBWnNHQS1OT1RMLUlia2VpSE5WWTVnAAAAAAAACGAWWXBVdHZKMTFRSUNoLUdfWVlHRUVuURYzc0hXT1hSUVR1LW1DTVpsOVpaQlNRAAAAAAAABMsWanViX0pwd3RTUG1uSFVPNVdEeGtwURZBWnNHQS1OT1RMLUlia2VpSE5WWTVnAAAAAAAACGQWWXBVdHZKMTFRSUNoLUdfWVlHRUVuURYzc0hXT1hSUVR1LW1DTVpsOVpaQlNRAAAAAAAABMwWanViX0pwd3RTUG1uSFVPNVdEeGtwURYzc0hXT1hSUVR1LW1DTVpsOVpaQlNRAAAAAAAABM4WanViX0pwd3RTUG1uSFVPNVdEeGtwURZBWnNHQS1OT1RMLUlia2VpSE5WWTVnAAAAAAAACGMWWXBVdHZKMTFRSUNoLUdfWVlHRUVuURZBWnNHQS1OT1RMLUlia2VpSE5WWTVnAAAAAAAACGUWWXBVdHZKMTFRSUNoLUdfWVlHRUVuURZBWnNHQS1OT1RMLUlia2VpSE5WWTVnAAAAAAAACGYWWXBVdHZKMTFRSUNoLUdfWVlHRUVuURYzc0hXT1hSUVR1LW1DTVpsOVpaQlNRAAAAAAAABM8WanViX0pwd3RTUG1uSFVPNVdEeGtwURZDZXZTVnZOVFJSMkFkY2E3ZUxrMWlnAAAAAAAABZIWekM3dlV6ZERTdUs0TnZQOGpvRGtBQRYzc0hXT1hSUVR1LW1DTVpsOVpaQlNRAAAAAAAABM0WanViX0pwd3RTUG1uSFVPNVdEeGtwURZBWnNHQS1OT1RMLUlia2VpSE5WWTVnAAAAAAAACGcWWXBVdHZKMTFRSUNoLUdfWVlHRUVuURYzc0hXT1hSUVR1LW1DTVpsOVpaQlNRAAAAAAAABNAWanViX0pwd3RTUG1uSFVPNVdEeGtwURZDZXZTVnZOVFJSMkFkY2E3ZUxrMWlnAAAAAAAABZEWekM3dlV6ZERTdUs0TnZQOGpvRGtBQRZDZXZTVnZOVFJSMkFkY2E3ZUxrMWlnAAAAAAAABZMWekM3dlV6ZERTdUs0TnZQOGpvRGtBQRYzc0hXT1hSUVR1LW1DTVpsOVpaQlNRAAAAAAAABNMWanViX0pwd3RTUG1uSFVPNVdEeGtwURZDZXZTVnZOVFJSMkFkY2E3ZUxrMWlnAAAAAAAABZcWekM3dlV6ZERTdUs0TnZQOGpvRGtBQRYzc0hXT1hSUVR1LW1DTVpsOVpaQlNRAAAAAAAABNIWanViX0pwd3RTUG1uSFVPNVdEeGtwURZBWnNHQS1OT1RMLUlia2VpSE5WWTVnAAAAAAAACGkWWXBVdHZKMTFRSUNoLUdfWVlHRUVuURYzc0hXT1hSUVR1LW1DTVpsOVpaQlNRAAAAAAAABNEWanViX0pwd3RTUG1uSFVPNVdEeGtwURZDZXZTVnZOVFJSMkFkY2E3ZUxrMWlnAAAAAAAABZYWekM3dlV6ZERTdUs0TnZQOGpvRGtBQRZBWnNHQS1OT1RMLUlia2VpSE5WWTVnAAAAAAAACGgWWXBVdHZKMTFRSUNoLUdfWVlHRUVuURZDZXZTVnZOVFJSMkFkY2E3ZUxrMWlnAAAAAAAABZUWekM3dlV6ZERTdUs0TnZQOGpvRGtBQRZBWnNHQS1OT1RMLUlia2VpSE5WWTVnAAAAAAAACGoWWXBVdHZKMTFRSUNoLUdfWVlHRUVuURZDZXZTVnZOVFJSMkFkY2E3ZUxrMWlnAAAAAAAABZkWekM3dlV6ZERTdUs0TnZQOGpvRGtBQRZDZXZTVnZOVFJSMkFkY2E3ZUxrMWlnAAAAAAAABZgWekM3dlV6ZERTdUs0TnZQOGpvRGtBQRZDZXZTVnZOVFJSMkFkY2E3ZUxrMWlnAAAAAAAABZoWekM3dlV6ZERTdUs0TnZQOGpvRGtBQRZDZXZTVnZOVFJSMkFkY2E3ZUxrMWlnAAAAAAAABZsWekM3dlV6ZERTdUs0TnZQOGpvRGtBQRZDZXZTVnZOVFJSMkFkY2E3ZUxrMWlnAAAAAAAABZ0WekM3dlV6ZERTdUs0TnZQOGpvRGtBQRYzc0hXT1hSUVR1LW1DTVpsOVpaQlNRAAAAAAAABNQWanViX0pwd3RTUG1uSFVPNVdEeGtwURYzc0hXT1hSUVR1LW1DTVpsOVpaQlNRAAAAAAAABNYWanViX0pwd3RTUG1uSFVPNVdEeGtwURYzc0hXT1hSUVR1LW1DTVpsOVpaQlNRAAAAAAAABNUWanViX0pwd3RTUG1uSFVPNVdEeGtwURZDZXZTVnZOVFJSMkFkY2E3ZUxrMWlnAAAAAAAABZwWekM3dlV6ZERTdUs0TnZQOGpvRGtBQRYzc0hXT1hSUVR1LW1DTVpsOVpaQlNRAAAAAAAABNgWanViX0pwd3RTUG1uSFVPNVdEeGtwURYzc0hXT1hSUVR1LW1DTVpsOVpaQlNRAAAAAAAABNcWanViX0pwd3RTUG1uSFVPNVdEeGtwURZBWnNHQS1OT1RMLUlia2VpSE5WWTVnAAAAAAAACGsWWXBVdHZKMTFRSUNoLUdfWVlHRUVuURYzc0hXT1hSUVR1LW1DTVpsOVpaQlNRAAAAAAAABNoWanViX0pwd3RTUG1uSFVPNVdEeGtwURZBWnNHQS1OT1RMLUlia2VpSE5WWTVnAAAAAAAACGwWWXBVdHZKMTFRSUNoLUdfWVlHRUVuURZDZXZTVnZOVFJSMkFkY2E3ZUxrMWlnAAAAAAAABZ4WekM3dlV6ZERTdUs0TnZQOGpvRGtBQRZBWnNHQS1OT1RMLUlia2VpSE5WWTVnAAAAAAAACG0WWXBVdHZKMTFRSUNoLUdfWVlHRUVuURYzc0hXT1hSUVR1LW1DTVpsOVpaQlNRAAAAAAAABNkWanViX0pwd3RTUG1uSFVPNVdEeGtwURZDZXZTVnZOVFJSMkFkY2E3ZUxrMWlnAAAAAAAABZ8WekM3dlV6ZERTdUs0TnZQOGpvRGtBQQ==",
+  "took": 70,
+  "timed_out": false,
+  "_shards": {
+    "total": 60,
+    "successful": 60,
+    "skipped": 0,
+    "failed": 0
+  },
+  "hits": {
+    "total": {
+      "value": 631512,
+      "relation": "eq"
+    },
+    "max_score": 1.0,
+    "hits": [
+      {
+        "_index": "wazuh-alerts-4.x-2026.02.23",
+        "_id": "WjJjjJwBm1jOToJvfsEj",
+        "_score": 1.0,
+        "_source": {
+          "cluster": {
+            "node": "worker01",
+            "name": "wazuh"
+          },
+          "agent": {
+            "ip": "10.21.232.55",
+            "name": "HoneyPot",
+            "id": "003"
+          },
+          "manager": {
+            "name": "wazuh.worker"
+          },
+          "data": {
+            "tx_guessed": "true",
+            "tx_id": "1",
+            "app_proto": "smb",
+            "in_iface": "ens19",
+            "src_ip": "10.21.227.82",
+            "src_port": "59757",
+            "event_type": "alert",
+            "alert": {
+              "severity": "2",
+              "signature_id": "9002001",
+              "rev": "1",
+              "gid": "1",
+              "signature": "Local SMB Enumeration (SMB1)",
+              "action": "allowed",
+              "category": "Attempted Information Leak"
+            },
+            "flow_id": "230980260165282.000000",
+            "dest_ip": "10.21.232.55",
+            "proto": "TCP",
+            "dest_port": "445",
+            "pkt_src": "stream (flow timeout)",
+            "flow": {
+              "src_ip": "10.21.227.82",
+              "src_port": "59757",
+              "pkts_toserver": "6",
+              "dest_ip": "10.21.232.55",
+              "start": "2026-02-24T02:53:04.315923+0530",
+              "bytes_toclient": "379",
+              "bytes_toserver": "459",
+              "pkts_toclient": "5",
+              "dest_port": "445"
+            },
+            "timestamp": "2026-02-24T02:54:11.402003+0530",
+            "direction": "to_server"
+          },
+          "rule": {
+            "firedtimes": 14,
+            "mail": false,
+            "level": 3,
+            "description": "Suricata: Alert - Local SMB Enumeration (SMB1)",
+            "groups": [
+              "ids",
+              "suricata"
+            ],
+            "id": "86601"
+          },
+          "decoder": {
+            "name": "json"
+          },
+          "input": {
+            "type": "log"
+          },
+          "@timestamp": "2026-02-23T21:24:14.515Z",
+          "location": "/var/log/suricata/eve.json",
+          "id": "1771881854.7292693",
+          "timestamp": "2026-02-23T21:24:14.515+0000"
+        }
+      },
+      {
+        "_index": "wazuh-alerts-4.x-2026.02.23",
+        "_id": "WTJijJwBm1jOToJvp8FE",
+        "_score": 1.0,
+        "_source": {
+          "cluster": {
+            "node": "worker01",
+            "name": "wazuh"
+          },
+          "agent": {
+            "ip": "10.21.232.55",
+            "name": "HoneyPot",
+            "id": "003"
+          },
+          "manager": {
+            "name": "wazuh.worker"
+          },
+          "data": {
+            "app_proto": "failed",
+            "in_iface": "ens19",
+            "src_ip": "10.21.232.55",
+            "src_port": "137",
+            "event_type": "alert",
+            "alert": {
+              "severity": "3",
+              "signature_id": "9001002",
+              "rev": "1",
+              "gid": "1",
+              "signature": "Local UDP Port Scan",
+              "action": "allowed",
+              "category": "Detection of a Network Scan"
+            },
+            "flow_id": "1592508384362634.000000",
+            "dest_ip": "10.21.232.33",
+            "proto": "UDP",
+            "dest_port": "137",
+            "pkt_src": "wire/pcap",
+            "flow": {
+              "src_ip": "10.21.232.55",
+              "src_port": "137",
+              "pkts_toserver": "1",
+              "dest_ip": "10.21.232.33",
+              "start": "2026-02-24T02:53:09.108640+0530",
+              "bytes_toclient": "0",
+              "bytes_toserver": "104",
+              "pkts_toclient": "0",
+              "dest_port": "137"
+            },
+            "timestamp": "2026-02-24T02:53:09.108640+0530",
+            "direction": "to_server"
+          },
+          "rule": {
+            "firedtimes": 13,
+            "mail": false,
+            "level": 3,
+            "description": "Suricata: Alert - Local UDP Port Scan",
+            "groups": [
+              "ids",
+              "suricata"
+            ],
+            "id": "86601"
+          },
+          "decoder": {
+            "name": "json"
+          },
+          "input": {
+            "type": "log"
+          },
+          "@timestamp": "2026-02-23T21:23:12.506Z",
+          "location": "/var/log/suricata/eve.json",
+          "id": "1771881792.7291225",
+          "timestamp": "2026-02-23T21:23:12.506+0000"
+        }
+      },
+      {
+        "_index": "wazuh-alerts-4.x-2026.02.23",
+        "_id": "hjK1i5wBm1jOToJvqr9N",
+        "_score": 1.0,
+        "_source": {
+          "cluster": {
+            "node": "worker01",
+            "name": "wazuh"
+          },
+          "agent": {
+            "ip": "10.21.232.224",
+            "name": "Windows_VM_Proxmox",
+            "id": "004"
+          },
+          "manager": {
+            "name": "wazuh.worker"
+          },
+          "data": {
+            "win": {
+              "eventdata": {
+                "originalFileName": "msedgeupdate.dll",
+                "image": "C:\\\\Program Files (x86)\\\\Microsoft\\\\EdgeUpdate\\\\MicrosoftEdgeUpdate.exe",
+                "product": "Microsoft Edge Update",
+                "parentProcessGuid": "{7d2832c1-9899-699c-953d-000000000c00}",
+                "description": "Microsoft Edge Update",
+                "logonGuid": "{7d2832c1-d8c4-698a-e703-000000000000}",
+                "parentCommandLine": "\\\"C:\\\\Program Files (x86)\\\\Microsoft\\\\EdgeUpdate\\\\MicrosoftEdgeUpdate.exe\\\" /svc",
+                "processGuid": "{7d2832c1-98f7-699c-963d-000000000c00}",
+                "logonId": "0x3e7",
+                "parentProcessId": "7648",
+                "processId": "9472",
+                "currentDirectory": "C:\\\\Program Files (x86)\\\\Microsoft\\\\EdgeUpdate\\\\1.3.217.3\\\\",
+                "utcTime": "2026-02-23 18:14:15.670",
+                "hashes": "MD5=B299AA9A27C330A9B44E45BD1595DBEA,SHA256=955B5950FD92E5C5EEC395B022566C9A2594CA3126D894408E2E29BA25D8B0DD,IMPHASH=CD3B2D99C6655A5D4A14E30E380F5BF9",
+                "parentImage": "C:\\\\Program Files (x86)\\\\Microsoft\\\\EdgeUpdate\\\\MicrosoftEdgeUpdate.exe",
+                "company": "Microsoft Corporation",
+                "commandLine": "\\\"C:\\\\Program Files (x86)\\\\Microsoft\\\\EdgeUpdate\\\\MicrosoftEdgeUpdate.exe\\\" /ping PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48cmVxdWVzdCBwcm90b2NvbD0iMy4wIiB1cGRhdGVyPSJPbWFoYSIgdXBkYXRlcnZlcnNpb249IjEuMy4yMTcuMyIgc2hlbGxfdmVyc2lvbj0iMS4zLjIxNS45IiBpc21hY2hpbmU9IjEiIHNlc3Npb25pZD0iezNGQzgwNTkzLTNFRDctNEVFRC1CMDM4LTQyRTREQjlGNTRDQ30iIHVzZXJpZD0iezU5NTcwNjc3LUU3MjAtNEEzMy1BQUE5LUQ2RTc1MTkyMDBBMX0iIGluc3RhbGxzb3VyY2U9ImNvcmUiIHJlcXVlc3RpZD0ie0Y3ODQwRjY1LTQ0MTgtNEMwMi1COUQwLTBERDM2OEU5REFCMH0iIGRlZHVwPSJjciIgZG9tYWluam9pbmVkPSIwIj48aHcgbG9naWNhbF9jcHVzPSIzIiBwaHlzbWVtb3J5PSI4IiBkaXNrX3R5cGU9IjIiIHNzZT0iMSIgc3NlMj0iMSIgc3NlMz0iMSIgc3NzZTM9IjEiIHNzZTQxPSIxIiBzc2U0Mj0iMSIgYXZ4PSIxIi8-PG9zIHBsYXRmb3JtPSJ3aW4iIHZlcnNpb249IjEwLjAuMTkwNDUuNjQ2NiIgc3A9IiIgYXJjaD0ieDY0IiBwcm9kdWN0X3R5cGU9IjQ4IiBpc193aXA9IjAiIGlzX2luX2xvY2tkb3duX21vZGU9IjAiLz48b2VtIHByb2R1Y3RfbWFudWZhY3R1cmVyPSJRRU1VIiBwcm9kdWN0X25hbWU9IlN0YW5kYXJkIFBDIChRMzUgKyBJQ0g5LCAyMDA5KSIvPjxleHAgZXRhZz0iJnF1b3Q7K1pGQWozU09JSTVCSnpvR3V6OE9wcjBoWjhIL3JEenFiL1FWcjNQWWg0ST0mcXVvdDsiLz48YXBwIGFwcGlkPSJ7RjNDNEZFMDAtRUZENS00MDNCLTk1NjktMzk4QTIwRjFCQTRBfSIgdmVyc2lvbj0iMS4zLjIxNy4zIiBuZXh0dmVyc2lvbj0iIiBsYW5nPSIiIGJyYW5kPSJJTkJYIiBjbGllbnQ9IiIgZXhwZXJpbWVudHM9ImNocm9tZXJlYzM9MjAyNTUwUiIgaW5zdGFsbGFnZT0iNzEiIGNvaG9ydD0icnJmQDAuMjgiPjx1cGRhdGVjaGVjay8-PHBpbmcgcj0iMjAiIHJkPSI2OTczIiBwaW5nX2ZyZXNobmVzcz0iezlBMzhDOTQ2LTAyOTMtNDhDOS1BOEE3LURCRkJBMzc4MkY0RH0iLz48L2FwcD48YXBwIGFwcGlkPSJ7NTZFQjE4RjgtQjAwOC00Q0JELUI2RDItOEM5N0ZFN0U5MDYyfSIgdmVyc2lvbj0iMTQzLjAuMzY1MC45NiIgbmV4dHZlcnNpb249IiIgbGFuZz0iIiBicmFuZD0iSU5CWCIgY2xpZW50PSIiIGV4cGVyaW1lbnRzPSJjb25zZW50PWZhbHNlIiBpbnN0YWxsYWdlPSI3MSIgY29ob3J0PSJycmZAMC4wNiIgb29iZV9pbnN0YWxsX3RpbWU9IjE4NDQ2NzQ0MDczNzA5NTUxNjA2IiB1cGRhdGVfY291bnQ9IjIiIGlzX3Bpbm5lZF9zeXN0ZW09InRydWUiIGxhc3RfbGF1bmNoX2NvdW50PSIxIiBsYXN0X2xhdW5jaF90aW1lPSIxMzQxNTM0OTY1ODYxNTMwMTAiPjx1cGRhdGVjaGVjay8-PHBpbmcgYWN0aXZlPSIxIiBhPSIyMCIgcj0iMjAiIGFkPSI2OTczIiByZD0iNjk3MyIgcGluZ19mcmVzaG5lc3M9IntDRDk1RUU1Qi0yQkI5LTQ0RDMtOUU1Mi00MkNDRUIwNkYwMTh9Ii8-PC9hcHA-PGFwcCBhcHBpZD0ie0YzMDE3MjI2LUZFMkEtNDI5NS04QkRGLTAwQzNBOUE3RTRDNX0iIHZlcnNpb249IjE0My4wLjM2NTAuOTYiIG5leHR2ZXJzaW9uPSIiIGxhbmc9IiIgYnJhbmQ9IkVVV1YiIGNsaWVudD0iIiBpbnN0YWxsYWdlPSI3MCIgaW5zdGFsbGRhdGU9IjY5MjMiIGNvaG9ydD0icnJmQDAuMDUiIHVwZGF0ZV9jb3VudD0iMSI-PHVwZGF0ZWNoZWNrLz48cGluZyByPSIyMCIgcmQ9IjY5NzMiIHBpbmdfZnJlc2huZXNzPSJ7QkYzNjM2QTAtMEM0My00OUNGLUFEQUQtMEUzNTVFQjczQjdGfSIvPjwvYXBwPjwvcmVxdWVzdD4",
+                "integrityLevel": "System",
+                "fileVersion": "1.3.215.9",
+                "user": "NT AUTHORITY\\\\SYSTEM",
+                "terminalSessionId": "0",
+                "parentUser": "NT AUTHORITY\\\\SYSTEM"
+              },
+              "system": {
+                "eventID": "1",
+                "keywords": "0x8000000000000000",
+                "providerGuid": "{5770385f-c22a-43e0-bf4c-06f5698ffbd9}",
+                "level": "4",
+                "channel": "Microsoft-Windows-Sysmon/Operational",
+                "opcode": "0",
+                "message": "\"Process Create:\r\nRuleName: -\r\nUtcTime: 2026-02-23 18:14:15.670\r\nProcessGuid: {7d2832c1-98f7-699c-963d-000000000c00}\r\nProcessId: 9472\r\nImage: C:\\Program Files (x86)\\Microsoft\\EdgeUpdate\\MicrosoftEdgeUpdate.exe\r\nFileVersion: 1.3.215.9\r\nDescription: Microsoft Edge Update\r\nProduct: Microsoft Edge Update\r\nCompany: Microsoft Corporation\r\nOriginalFileName: msedgeupdate.dll\r\nCommandLine: \"C:\\Program Files (x86)\\Microsoft\\EdgeUpdate\\MicrosoftEdgeUpdate.exe\" /ping PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48cmVxdWVzdCBwcm90b2NvbD0iMy4wIiB1cGRhdGVyPSJPbWFoYSIgdXBkYXRlcnZlcnNpb249IjEuMy4yMTcuMyIgc2hlbGxfdmVyc2lvbj0iMS4zLjIxNS45IiBpc21hY2hpbmU9IjEiIHNlc3Npb25pZD0iezNGQzgwNTkzLTNFRDctNEVFRC1CMDM4LTQyRTREQjlGNTRDQ30iIHVzZXJpZD0iezU5NTcwNjc3LUU3MjAtNEEzMy1BQUE5LUQ2RTc1MTkyMDBBMX0iIGluc3RhbGxzb3VyY2U9ImNvcmUiIHJlcXVlc3RpZD0ie0Y3ODQwRjY1LTQ0MTgtNEMwMi1COUQwLTBERDM2OEU5REFCMH0iIGRlZHVwPSJjciIgZG9tYWluam9pbmVkPSIwIj48aHcgbG9naWNhbF9jcHVzPSIzIiBwaHlzbWVtb3J5PSI4IiBkaXNrX3R5cGU9IjIiIHNzZT0iMSIgc3NlMj0iMSIgc3NlMz0iMSIgc3NzZTM9IjEiIHNzZTQxPSIxIiBzc2U0Mj0iMSIgYXZ4PSIxIi8-PG9zIHBsYXRmb3JtPSJ3aW4iIHZlcnNpb249IjEwLjAuMTkwNDUuNjQ2NiIgc3A9IiIgYXJjaD0ieDY0IiBwcm9kdWN0X3R5cGU9IjQ4IiBpc193aXA9IjAiIGlzX2luX2xvY2tkb3duX21vZGU9IjAiLz48b2VtIHByb2R1Y3RfbWFudWZhY3R1cmVyPSJRRU1VIiBwcm9kdWN0X25hbWU9IlN0YW5kYXJkIFBDIChRMzUgKyBJQ0g5LCAyMDA5KSIvPjxleHAgZXRhZz0iJnF1b3Q7K1pGQWozU09JSTVCSnpvR3V6OE9wcjBoWjhIL3JEenFiL1FWcjNQWWg0ST0mcXVvdDsiLz48YXBwIGFwcGlkPSJ7RjNDNEZFMDAtRUZENS00MDNCLTk1NjktMzk4QTIwRjFCQTRBfSIgdmVyc2lvbj0iMS4zLjIxNy4zIiBuZXh0dmVyc2lvbj0iIiBsYW5nPSIiIGJyYW5kPSJJTkJYIiBjbGllbnQ9IiIgZXhwZXJpbWVudHM9ImNocm9tZXJlYzM9MjAyNTUwUiIgaW5zdGFsbGFnZT0iNzEiIGNvaG9ydD0icnJmQDAuMjgiPjx1cGRhdGVjaGVjay8-PHBpbmcgcj0iMjAiIHJkPSI2OTczIiBwaW5nX2ZyZXNobmVzcz0iezlBMzhDOTQ2LTAyOTMtNDhDOS1BOEE3LURCRkJBMzc4MkY0RH0iLz48L2FwcD48YXBwIGFwcGlkPSJ7NTZFQjE4RjgtQjAwOC00Q0JELUI2RDItOEM5N0ZFN0U5MDYyfSIgdmVyc2lvbj0iMTQzLjAuMzY1MC45NiIgbmV4dHZlcnNpb249IiIgbGFuZz0iIiBicmFuZD0iSU5CWCIgY2xpZW50PSIiIGV4cGVyaW1lbnRzPSJjb25zZW50PWZhbHNlIiBpbnN0YWxsYWdlPSI3MSIgY29ob3J0PSJycmZAMC4wNiIgb29iZV9pbnN0YWxsX3RpbWU9IjE4NDQ2NzQ0MDczNzA5NTUxNjA2IiB1cGRhdGVfY291bnQ9IjIiIGlzX3Bpbm5lZF9zeXN0ZW09InRydWUiIGxhc3RfbGF1bmNoX2NvdW50PSIxIiBsYXN0X2xhdW5jaF90aW1lPSIxMzQxNTM0OTY1ODYxNTMwMTAiPjx1cGRhdGVjaGVjay8-PHBpbmcgYWN0aXZlPSIxIiBhPSIyMCIgcj0iMjAiIGFkPSI2OTczIiByZD0iNjk3MyIgcGluZ19mcmVzaG5lc3M9IntDRDk1RUU1Qi0yQkI5LTQ0RDMtOUU1Mi00MkNDRUIwNkYwMTh9Ii8-PC9hcHA-PGFwcCBhcHBpZD0ie0YzMDE3MjI2LUZFMkEtNDI5NS04QkRGLTAwQzNBOUE3RTRDNX0iIHZlcnNpb249IjE0My4wLjM2NTAuOTYiIG5leHR2ZXJzaW9uPSIiIGxhbmc9IiIgYnJhbmQ9IkVVV1YiIGNsaWVudD0iIiBpbnN0YWxsYWdlPSI3MCIgaW5zdGFsbGRhdGU9IjY5MjMiIGNvaG9ydD0icnJmQDAuMDUiIHVwZGF0ZV9jb3VudD0iMSI-PHVwZGF0ZWNoZWNrLz48cGluZyByPSIyMCIgcmQ9IjY5NzMiIHBpbmdfZnJlc2huZXNzPSJ7QkYzNjM2QTAtMEM0My00OUNGLUFEQUQtMEUzNTVFQjczQjdGfSIvPjwvYXBwPjwvcmVxdWVzdD4\r\nCurrentDirectory: C:\\Program Files (x86)\\Microsoft\\EdgeUpdate\\1.3.217.3\\\r\nUser: NT AUTHORITY\\SYSTEM\r\nLogonGuid: {7d2832c1-d8c4-698a-e703-000000000000}\r\nLogonId: 0x3E7\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: MD5=B299AA9A27C330A9B44E45BD1595DBEA,SHA256=955B5950FD92E5C5EEC395B022566C9A2594CA3126D894408E2E29BA25D8B0DD,IMPHASH=CD3B2D99C6655A5D4A14E30E380F5BF9\r\nParentProcessGuid: {7d2832c1-9899-699c-953d-000000000c00}\r\nParentProcessId: 7648\r\nParentImage: C:\\Program Files (x86)\\Microsoft\\EdgeUpdate\\MicrosoftEdgeUpdate.exe\r\nParentCommandLine: \"C:\\Program Files (x86)\\Microsoft\\EdgeUpdate\\MicrosoftEdgeUpdate.exe\" /svc\r\nParentUser: NT AUTHORITY\\SYSTEM\"",
+                "version": "5",
+                "systemTime": "2026-02-23T18:14:15.6758624Z",
+                "eventRecordID": "499783",
+                "threadID": "5100",
+                "computer": "DESKTOP-5NEHIB8",
+                "task": "1",
+                "processID": "3212",
+                "severityValue": "INFORMATION",
+                "providerName": "Microsoft-Windows-Sysmon"
+              }
+            }
+          },
+          "rule": {
+            "firedtimes": 6,
+            "mail": true,
+            "level": 12,
+            "description": "Microsoft Office Product Spawning Windows Shell",
+            "groups": [
+              "sysmon",
+              "sysmon_process-anomalies"
+            ],
+            "id": "255008"
+          },
+          "decoder": {
+            "name": "windows_eventchannel"
+          },
+          "full_log": "{\"win\":{\"system\":{\"providerName\":\"Microsoft-Windows-Sysmon\",\"providerGuid\":\"{5770385f-c22a-43e0-bf4c-06f5698ffbd9}\",\"eventID\":\"1\",\"version\":\"5\",\"level\":\"4\",\"task\":\"1\",\"opcode\":\"0\",\"keywords\":\"0x8000000000000000\",\"systemTime\":\"2026-02-23T18:14:15.6758624Z\",\"eventRecordID\":\"499783\",\"processID\":\"3212\",\"threadID\":\"5100\",\"channel\":\"Microsoft-Windows-Sysmon/Operational\",\"computer\":\"DESKTOP-5NEHIB8\",\"severityValue\":\"INFORMATION\",\"message\":\"\\\"Process Create:\\r\\nRuleName: -\\r\\nUtcTime: 2026-02-23 18:14:15.670\\r\\nProcessGuid: {7d2832c1-98f7-699c-963d-000000000c00}\\r\\nProcessId: 9472\\r\\nImage: C:\\\\Program Files (x86)\\\\Microsoft\\\\EdgeUpdate\\\\MicrosoftEdgeUpdate.exe\\r\\nFileVersion: 1.3.215.9\\r\\nDescription: Microsoft Edge Update\\r\\nProduct: Microsoft Edge Update\\r\\nCompany: Microsoft Corporation\\r\\nOriginalFileName: msedgeupdate.dll\\r\\nCommandLine: \\\"C:\\\\Program Files (x86)\\\\Microsoft\\\\EdgeUpdate\\\\MicrosoftEdgeUpdate.exe\\\" /ping PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48cmVxdWVzdCBwcm90b2NvbD0iMy4wIiB1cGRhdGVyPSJPbWFoYSIgdXBkYXRlcnZlcnNpb249IjEuMy4yMTcuMyIgc2hlbGxfdmVyc2lvbj0iMS4zLjIxNS45IiBpc21hY2hpbmU9IjEiIHNlc3Npb25pZD0iezNGQzgwNTkzLTNFRDctNEVFRC1CMDM4LTQyRTREQjlGNTRDQ30iIHVzZXJpZD0iezU5NTcwNjc3LUU3MjAtNEEzMy1BQUE5LUQ2RTc1MTkyMDBBMX0iIGluc3RhbGxzb3VyY2U9ImNvcmUiIHJlcXVlc3RpZD0ie0Y3ODQwRjY1LTQ0MTgtNEMwMi1COUQwLTBERDM2OEU5REFCMH0iIGRlZHVwPSJjciIgZG9tYWluam9pbmVkPSIwIj48aHcgbG9naWNhbF9jcHVzPSIzIiBwaHlzbWVtb3J5PSI4IiBkaXNrX3R5cGU9IjIiIHNzZT0iMSIgc3NlMj0iMSIgc3NlMz0iMSIgc3NzZTM9IjEiIHNzZTQxPSIxIiBzc2U0Mj0iMSIgYXZ4PSIxIi8-PG9zIHBsYXRmb3JtPSJ3aW4iIHZlcnNpb249IjEwLjAuMTkwNDUuNjQ2NiIgc3A9IiIgYXJjaD0ieDY0IiBwcm9kdWN0X3R5cGU9IjQ4IiBpc193aXA9IjAiIGlzX2luX2xvY2tkb3duX21vZGU9IjAiLz48b2VtIHByb2R1Y3RfbWFudWZhY3R1cmVyPSJRRU1VIiBwcm9kdWN0X25hbWU9IlN0YW5kYXJkIFBDIChRMzUgKyBJQ0g5LCAyMDA5KSIvPjxleHAgZXRhZz0iJnF1b3Q7K1pGQWozU09JSTVCSnpvR3V6OE9wcjBoWjhIL3JEenFiL1FWcjNQWWg0ST0mcXVvdDsiLz48YXBwIGFwcGlkPSJ7RjNDNEZFMDAtRUZENS00MDNCLTk1NjktMzk4QTIwRjFCQTRBfSIgdmVyc2lvbj0iMS4zLjIxNy4zIiBuZXh0dmVyc2lvbj0iIiBsYW5nPSIiIGJyYW5kPSJJTkJYIiBjbGllbnQ9IiIgZXhwZXJpbWVudHM9ImNocm9tZXJlYzM9MjAyNTUwUiIgaW5zdGFsbGFnZT0iNzEiIGNvaG9ydD0icnJmQDAuMjgiPjx1cGRhdGVjaGVjay8-PHBpbmcgcj0iMjAiIHJkPSI2OTczIiBwaW5nX2ZyZXNobmVzcz0iezlBMzhDOTQ2LTAyOTMtNDhDOS1BOEE3LURCRkJBMzc4MkY0RH0iLz48L2FwcD48YXBwIGFwcGlkPSJ7NTZFQjE4RjgtQjAwOC00Q0JELUI2RDItOEM5N0ZFN0U5MDYyfSIgdmVyc2lvbj0iMTQzLjAuMzY1MC45NiIgbmV4dHZlcnNpb249IiIgbGFuZz0iIiBicmFuZD0iSU5CWCIgY2xpZW50PSIiIGV4cGVyaW1lbnRzPSJjb25zZW50PWZhbHNlIiBpbnN0YWxsYWdlPSI3MSIgY29ob3J0PSJycmZAMC4wNiIgb29iZV9pbnN0YWxsX3RpbWU9IjE4NDQ2NzQ0MDczNzA5NTUxNjA2IiB1cGRhdGVfY291bnQ9IjIiIGlzX3Bpbm5lZF9zeXN0ZW09InRydWUiIGxhc3RfbGF1bmNoX2NvdW50PSIxIiBsYXN0X2xhdW5jaF90aW1lPSIxMzQxNTM0OTY1ODYxNTMwMTAiPjx1cGRhdGVjaGVjay8-PHBpbmcgYWN0aXZlPSIxIiBhPSIyMCIgcj0iMjAiIGFkPSI2OTczIiByZD0iNjk3MyIgcGluZ19mcmVzaG5lc3M9IntDRDk1RUU1Qi0yQkI5LTQ0RDMtOUU1Mi00MkNDRUIwNkYwMTh9Ii8-PC9hcHA-PGFwcCBhcHBpZD0ie0YzMDE3MjI2LUZFMkEtNDI5NS04QkRGLTAwQzNBOUE3RTRDNX0iIHZlcnNpb249IjE0My4wLjM2NTAuOTYiIG5leHR2ZXJzaW9uPSIiIGxhbmc9IiIgYnJhbmQ9IkVVV1YiIGNsaWVudD0iIiBpbnN0YWxsYWdlPSI3MCIgaW5zdGFsbGRhdGU9IjY5MjMiIGNvaG9ydD0icnJmQDAuMDUiIHVwZGF0ZV9jb3VudD0iMSI-PHVwZGF0ZWNoZWNrLz48cGluZyByPSIyMCIgcmQ9IjY5NzMiIHBpbmdfZnJlc2huZXNzPSJ7QkYzNjM2QTAtMEM0My00OUNGLUFEQUQtMEUzNTVFQjczQjdGfSIvPjwvYXBwPjwvcmVxdWVzdD4\\r\\nCurrentDirectory: C:\\\\Program Files (x86)\\\\Microsoft\\\\EdgeUpdate\\\\1.3.217.3\\\\\\r\\nUser: NT AUTHORITY\\\\SYSTEM\\r\\nLogonGuid: {7d2832c1-d8c4-698a-e703-000000000000}\\r\\nLogonId: 0x3E7\\r\\nTerminalSessionId: 0\\r\\nIntegrityLevel: System\\r\\nHashes: MD5=B299AA9A27C330A9B44E45BD1595DBEA,SHA256=955B5950FD92E5C5EEC395B022566C9A2594CA3126D894408E2E29BA25D8B0DD,IMPHASH=CD3B2D99C6655A5D4A14E30E380F5BF9\\r\\nParentProcessGuid: {7d2832c1-9899-699c-953d-000000000c00}\\r\\nParentProcessId: 7648\\r\\nParentImage: C:\\\\Program Files (x86)\\\\Microsoft\\\\EdgeUpdate\\\\MicrosoftEdgeUpdate.exe\\r\\nParentCommandLine: \\\"C:\\\\Program Files (x86)\\\\Microsoft\\\\EdgeUpdate\\\\MicrosoftEdgeUpdate.exe\\\" /svc\\r\\nParentUser: NT AUTHORITY\\\\SYSTEM\\\"\"},\"eventdata\":{\"utcTime\":\"2026-02-23 18:14:15.670\",\"processGuid\":\"{7d2832c1-98f7-699c-963d-000000000c00}\",\"processId\":\"9472\",\"image\":\"C:\\\\\\\\Program Files (x86)\\\\\\\\Microsoft\\\\\\\\EdgeUpdate\\\\\\\\MicrosoftEdgeUpdate.exe\",\"fileVersion\":\"1.3.215.9\",\"description\":\"Microsoft Edge Update\",\"product\":\"Microsoft Edge Update\",\"company\":\"Microsoft Corporation\",\"originalFileName\":\"msedgeupdate.dll\",\"commandLine\":\"\\\\\\\"C:\\\\\\\\Program Files (x86)\\\\\\\\Microsoft\\\\\\\\EdgeUpdate\\\\\\\\MicrosoftEdgeUpdate.exe\\\\\\\" /ping PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48cmVxdWVzdCBwcm90b2NvbD0iMy4wIiB1cGRhdGVyPSJPbWFoYSIgdXBkYXRlcnZlcnNpb249IjEuMy4yMTcuMyIgc2hlbGxfdmVyc2lvbj0iMS4zLjIxNS45IiBpc21hY2hpbmU9IjEiIHNlc3Npb25pZD0iezNGQzgwNTkzLTNFRDctNEVFRC1CMDM4LTQyRTREQjlGNTRDQ30iIHVzZXJpZD0iezU5NTcwNjc3LUU3MjAtNEEzMy1BQUE5LUQ2RTc1MTkyMDBBMX0iIGluc3RhbGxzb3VyY2U9ImNvcmUiIHJlcXVlc3RpZD0ie0Y3ODQwRjY1LTQ0MTgtNEMwMi1COUQwLTBERDM2OEU5REFCMH0iIGRlZHVwPSJjciIgZG9tYWluam9pbmVkPSIwIj48aHcgbG9naWNhbF9jcHVzPSIzIiBwaHlzbWVtb3J5PSI4IiBkaXNrX3R5cGU9IjIiIHNzZT0iMSIgc3NlMj0iMSIgc3NlMz0iMSIgc3NzZTM9IjEiIHNzZTQxPSIxIiBzc2U0Mj0iMSIgYXZ4PSIxIi8-PG9zIHBsYXRmb3JtPSJ3aW4iIHZlcnNpb249IjEwLjAuMTkwNDUuNjQ2NiIgc3A9IiIgYXJjaD0ieDY0IiBwcm9kdWN0X3R5cGU9IjQ4IiBpc193aXA9IjAiIGlzX2luX2xvY2tkb3duX21vZGU9IjAiLz48b2VtIHByb2R1Y3RfbWFudWZhY3R1cmVyPSJRRU1VIiBwcm9kdWN0X25hbWU9IlN0YW5kYXJkIFBDIChRMzUgKyBJQ0g5LCAyMDA5KSIvPjxleHAgZXRhZz0iJnF1b3Q7K1pGQWozU09JSTVCSnpvR3V6OE9wcjBoWjhIL3JEenFiL1FWcjNQWWg0ST0mcXVvdDsiLz48YXBwIGFwcGlkPSJ7RjNDNEZFMDAtRUZENS00MDNCLTk1NjktMzk4QTIwRjFCQTRBfSIgdmVyc2lvbj0iMS4zLjIxNy4zIiBuZXh0dmVyc2lvbj0iIiBsYW5nPSIiIGJyYW5kPSJJTkJYIiBjbGllbnQ9IiIgZXhwZXJpbWVudHM9ImNocm9tZXJlYzM9MjAyNTUwUiIgaW5zdGFsbGFnZT0iNzEiIGNvaG9ydD0icnJmQDAuMjgiPjx1cGRhdGVjaGVjay8-PHBpbmcgcj0iMjAiIHJkPSI2OTczIiBwaW5nX2ZyZXNobmVzcz0iezlBMzhDOTQ2LTAyOTMtNDhDOS1BOEE3LURCRkJBMzc4MkY0RH0iLz48L2FwcD48YXBwIGFwcGlkPSJ7NTZFQjE4RjgtQjAwOC00Q0JELUI2RDItOEM5N0ZFN0U5MDYyfSIgdmVyc2lvbj0iMTQzLjAuMzY1MC45NiIgbmV4dHZlcnNpb249IiIgbGFuZz0iIiBicmFuZD0iSU5CWCIgY2xpZW50PSIiIGV4cGVyaW1lbnRzPSJjb25zZW50PWZhbHNlIiBpbnN0YWxsYWdlPSI3MSIgY29ob3J0PSJycmZAMC4wNiIgb29iZV9pbnN0YWxsX3RpbWU9IjE4NDQ2NzQ0MDczNzA5NTUxNjA2IiB1cGRhdGVfY291bnQ9IjIiIGlzX3Bpbm5lZF9zeXN0ZW09InRydWUiIGxhc3RfbGF1bmNoX2NvdW50PSIxIiBsYXN0X2xhdW5jaF90aW1lPSIxMzQxNTM0OTY1ODYxNTMwMTAiPjx1cGRhdGVjaGVjay8-PHBpbmcgYWN0aXZlPSIxIiBhPSIyMCIgcj0iMjAiIGFkPSI2OTczIiByZD0iNjk3MyIgcGluZ19mcmVzaG5lc3M9IntDRDk1RUU1Qi0yQkI5LTQ0RDMtOUU1Mi00MkNDRUIwNkYwMTh9Ii8-PC9hcHA-PGFwcCBhcHBpZD0ie0YzMDE3MjI2LUZFMkEtNDI5NS04QkRGLTAwQzNBOUE3RTRDNX0iIHZlcnNpb249IjE0My4wLjM2NTAuOTYiIG5leHR2ZXJzaW9uPSIiIGxhbmc9IiIgYnJhbmQ9IkVVV1YiIGNsaWVudD0iIiBpbnN0YWxsYWdlPSI3MCIgaW5zdGFsbGRhdGU9IjY5MjMiIGNvaG9ydD0icnJmQDAuMDUiIHVwZGF0ZV9jb3VudD0iMSI-PHVwZGF0ZWNoZWNrLz48cGluZyByPSIyMCIgcmQ9IjY5NzMiIHBpbmdfZnJlc2huZXNzPSJ7QkYzNjM2QTAtMEM0My00OUNGLUFEQUQtMEUzNTVFQjczQjdGfSIvPjwvYXBwPjwvcmVxdWVzdD4\",\"currentDirectory\":\"C:\\\\\\\\Program Files (x86)\\\\\\\\Microsoft\\\\\\\\EdgeUpdate\\\\\\\\1.3.217.3\\\\\\\\\",\"user\":\"NT AUTHORITY\\\\\\\\SYSTEM\",\"logonGuid\":\"{7d2832c1-d8c4-698a-e703-000000000000}\",\"logonId\":\"0x3e7\",\"terminalSessionId\":\"0\",\"integrityLevel\":\"System\",\"hashes\":\"MD5=B299AA9A27C330A9B44E45BD1595DBEA,SHA256=955B5950FD92E5C5EEC395B022566C9A2594CA3126D894408E2E29BA25D8B0DD,IMPHASH=CD3B2D99C6655A5D4A14E30E380F5BF9\",\"parentProcessGuid\":\"{7d2832c1-9899-699c-953d-000000000c00}\",\"parentProcessId\":\"7648\",\"parentImage\":\"C:\\\\\\\\Program Files (x86)\\\\\\\\Microsoft\\\\\\\\EdgeUpdate\\\\\\\\MicrosoftEdgeUpdate.exe\",\"parentCommandLine\":\"\\\\\\\"C:\\\\\\\\Program Files (x86)\\\\\\\\Microsoft\\\\\\\\EdgeUpdate\\\\\\\\MicrosoftEdgeUpdate.exe\\\\\\\" /svc\",\"parentUser\":\"NT AUTHORITY\\\\\\\\SYSTEM\"}}}",
+          "input": {
+            "type": "log"
+          },
+          "@timestamp": "2026-02-23T18:14:19.669Z",
+          "location": "EventChannel",
+          "id": "1771870459.6727231",
+          "timestamp": "2026-02-23T18:14:19.669+0000"
+        }
+      },
+      {
+        "_index": "wazuh-alerts-4.x-2026.02.23",
+        "_id": "hDKzi5wBm1jOToJvYL9Q",
+        "_score": 1.0,
+        "_source": {
+          "cluster": {
+            "node": "worker01",
+            "name": "wazuh"
+          },
+          "agent": {
+            "ip": "10.21.232.224",
+            "name": "Windows_VM_Proxmox",
+            "id": "004"
+          },
+          "manager": {
+            "name": "wazuh.worker"
+          },
+          "data": {
+            "win": {
+              "eventdata": {
+                "originalFileName": "msedgeupdate.dll",
+                "image": "C:\\\\Program Files (x86)\\\\Microsoft\\\\EdgeUpdate\\\\MicrosoftEdgeUpdate.exe",
+                "product": "Microsoft Edge Update",
+                "parentProcessGuid": "{7d2832c1-9fb3-6999-1735-000000000c00}",
+                "description": "Microsoft Edge Update",
+                "logonGuid": "{7d2832c1-d8c4-698a-e703-000000000000}",
+                "parentCommandLine": "\\\"C:\\\\Program Files (x86)\\\\Microsoft\\\\EdgeUpdate\\\\MicrosoftEdgeUpdate.exe\\\" /c",
+                "processGuid": "{7d2832c1-9864-699c-943d-000000000c00}",
+                "logonId": "0x3e7",
+                "parentProcessId": "9152",
+                "processId": "7892",
+                "currentDirectory": "C:\\\\Program Files (x86)\\\\Microsoft\\\\EdgeUpdate\\\\1.3.217.3\\\\",
+                "utcTime": "2026-02-23 18:11:48.940",
+                "hashes": "MD5=B299AA9A27C330A9B44E45BD1595DBEA,SHA256=955B5950FD92E5C5EEC395B022566C9A2594CA3126D894408E2E29BA25D8B0DD,IMPHASH=CD3B2D99C6655A5D4A14E30E380F5BF9",
+                "parentImage": "C:\\\\Program Files (x86)\\\\Microsoft\\\\EdgeUpdate\\\\MicrosoftEdgeUpdate.exe",
+                "company": "Microsoft Corporation",
+                "commandLine": "\\\"C:\\\\Program Files (x86)\\\\Microsoft\\\\EdgeUpdate\\\\MicrosoftEdgeUpdate.exe\\\" /ua /installsource core",
+                "integrityLevel": "System",
+                "fileVersion": "1.3.215.9",
+                "user": "NT AUTHORITY\\\\SYSTEM",
+                "terminalSessionId": "0",
+                "parentUser": "NT AUTHORITY\\\\SYSTEM"
+              },
+              "system": {
+                "eventID": "1",
+                "keywords": "0x8000000000000000",
+                "providerGuid": "{5770385f-c22a-43e0-bf4c-06f5698ffbd9}",
+                "level": "4",
+                "channel": "Microsoft-Windows-Sysmon/Operational",
+                "opcode": "0",
+                "message": "\"Process Create:\r\nRuleName: -\r\nUtcTime: 2026-02-23 18:11:48.940\r\nProcessGuid: {7d2832c1-9864-699c-943d-000000000c00}\r\nProcessId: 7892\r\nImage: C:\\Program Files (x86)\\Microsoft\\EdgeUpdate\\MicrosoftEdgeUpdate.exe\r\nFileVersion: 1.3.215.9\r\nDescription: Microsoft Edge Update\r\nProduct: Microsoft Edge Update\r\nCompany: Microsoft Corporation\r\nOriginalFileName: msedgeupdate.dll\r\nCommandLine: \"C:\\Program Files (x86)\\Microsoft\\EdgeUpdate\\MicrosoftEdgeUpdate.exe\" /ua /installsource core\r\nCurrentDirectory: C:\\Program Files (x86)\\Microsoft\\EdgeUpdate\\1.3.217.3\\\r\nUser: NT AUTHORITY\\SYSTEM\r\nLogonGuid: {7d2832c1-d8c4-698a-e703-000000000000}\r\nLogonId: 0x3E7\r\nTerminalSessionId: 0\r\nIntegrityLevel: System\r\nHashes: MD5=B299AA9A27C330A9B44E45BD1595DBEA,SHA256=955B5950FD92E5C5EEC395B022566C9A2594CA3126D894408E2E29BA25D8B0DD,IMPHASH=CD3B2D99C6655A5D4A14E30E380F5BF9\r\nParentProcessGuid: {7d2832c1-9fb3-6999-1735-000000000c00}\r\nParentProcessId: 9152\r\nParentImage: C:\\Program Files (x86)\\Microsoft\\EdgeUpdate\\MicrosoftEdgeUpdate.exe\r\nParentCommandLine: \"C:\\Program Files (x86)\\Microsoft\\EdgeUpdate\\MicrosoftEdgeUpdate.exe\" /c\r\nParentUser: NT AUTHORITY\\SYSTEM\"",
+                "version": "5",
+                "systemTime": "2026-02-23T18:11:48.9430385Z",
+                "eventRecordID": "499780",
+                "threadID": "5100",
+                "computer": "DESKTOP-5NEHIB8",
+                "task": "1",
+                "processID": "3212",
+                "severityValue": "INFORMATION",
+                "providerName": "Microsoft-Windows-Sysmon"
+              }
+            }
+          },
+          "rule": {
+            "firedtimes": 4,
+            "mail": true,
+            "level": 12,
+            "description": "Microsoft Office Product Spawning Windows Shell",
+            "groups": [
+              "sysmon",
+              "sysmon_process-anomalies"
+            ],
+            "id": "255008"
+          },
+          "decoder": {
+            "name": "windows_eventchannel"
+          },
+          "full_log": "{\"win\":{\"system\":{\"providerName\":\"Microsoft-Windows-Sysmon\",\"providerGuid\":\"{5770385f-c22a-43e0-bf4c-06f5698ffbd9}\",\"eventID\":\"1\",\"version\":\"5\",\"level\":\"4\",\"task\":\"1\",\"opcode\":\"0\",\"keywords\":\"0x8000000000000000\",\"systemTime\":\"2026-02-23T18:11:48.9430385Z\",\"eventRecordID\":\"499780\",\"processID\":\"3212\",\"threadID\":\"5100\",\"channel\":\"Microsoft-Windows-Sysmon/Operational\",\"computer\":\"DESKTOP-5NEHIB8\",\"severityValue\":\"INFORMATION\",\"message\":\"\\\"Process Create:\\r\\nRuleName: -\\r\\nUtcTime: 2026-02-23 18:11:48.940\\r\\nProcessGuid: {7d2832c1-9864-699c-943d-000000000c00}\\r\\nProcessId: 7892\\r\\nImage: C:\\\\Program Files (x86)\\\\Microsoft\\\\EdgeUpdate\\\\MicrosoftEdgeUpdate.exe\\r\\nFileVersion: 1.3.215.9\\r\\nDescription: Microsoft Edge Update\\r\\nProduct: Microsoft Edge Update\\r\\nCompany: Microsoft Corporation\\r\\nOriginalFileName: msedgeupdate.dll\\r\\nCommandLine: \\\"C:\\\\Program Files (x86)\\\\Microsoft\\\\EdgeUpdate\\\\MicrosoftEdgeUpdate.exe\\\" /ua /installsource core\\r\\nCurrentDirectory: C:\\\\Program Files (x86)\\\\Microsoft\\\\EdgeUpdate\\\\1.3.217.3\\\\\\r\\nUser: NT AUTHORITY\\\\SYSTEM\\r\\nLogonGuid: {7d2832c1-d8c4-698a-e703-000000000000}\\r\\nLogonId: 0x3E7\\r\\nTerminalSessionId: 0\\r\\nIntegrityLevel: System\\r\\nHashes: MD5=B299AA9A27C330A9B44E45BD1595DBEA,SHA256=955B5950FD92E5C5EEC395B022566C9A2594CA3126D894408E2E29BA25D8B0DD,IMPHASH=CD3B2D99C6655A5D4A14E30E380F5BF9\\r\\nParentProcessGuid: {7d2832c1-9fb3-6999-1735-000000000c00}\\r\\nParentProcessId: 9152\\r\\nParentImage: C:\\\\Program Files (x86)\\\\Microsoft\\\\EdgeUpdate\\\\MicrosoftEdgeUpdate.exe\\r\\nParentCommandLine: \\\"C:\\\\Program Files (x86)\\\\Microsoft\\\\EdgeUpdate\\\\MicrosoftEdgeUpdate.exe\\\" /c\\r\\nParentUser: NT AUTHORITY\\\\SYSTEM\\\"\"},\"eventdata\":{\"utcTime\":\"2026-02-23 18:11:48.940\",\"processGuid\":\"{7d2832c1-9864-699c-943d-000000000c00}\",\"processId\":\"7892\",\"image\":\"C:\\\\\\\\Program Files (x86)\\\\\\\\Microsoft\\\\\\\\EdgeUpdate\\\\\\\\MicrosoftEdgeUpdate.exe\",\"fileVersion\":\"1.3.215.9\",\"description\":\"Microsoft Edge Update\",\"product\":\"Microsoft Edge Update\",\"company\":\"Microsoft Corporation\",\"originalFileName\":\"msedgeupdate.dll\",\"commandLine\":\"\\\\\\\"C:\\\\\\\\Program Files (x86)\\\\\\\\Microsoft\\\\\\\\EdgeUpdate\\\\\\\\MicrosoftEdgeUpdate.exe\\\\\\\" /ua /installsource core\",\"currentDirectory\":\"C:\\\\\\\\Program Files (x86)\\\\\\\\Microsoft\\\\\\\\EdgeUpdate\\\\\\\\1.3.217.3\\\\\\\\\",\"user\":\"NT AUTHORITY\\\\\\\\SYSTEM\",\"logonGuid\":\"{7d2832c1-d8c4-698a-e703-000000000000}\",\"logonId\":\"0x3e7\",\"terminalSessionId\":\"0\",\"integrityLevel\":\"System\",\"hashes\":\"MD5=B299AA9A27C330A9B44E45BD1595DBEA,SHA256=955B5950FD92E5C5EEC395B022566C9A2594CA3126D894408E2E29BA25D8B0DD,IMPHASH=CD3B2D99C6655A5D4A14E30E380F5BF9\",\"parentProcessGuid\":\"{7d2832c1-9fb3-6999-1735-000000000c00}\",\"parentProcessId\":\"9152\",\"parentImage\":\"C:\\\\\\\\Program Files (x86)\\\\\\\\Microsoft\\\\\\\\EdgeUpdate\\\\\\\\MicrosoftEdgeUpdate.exe\",\"parentCommandLine\":\"\\\\\\\"C:\\\\\\\\Program Files (x86)\\\\\\\\Microsoft\\\\\\\\EdgeUpdate\\\\\\\\MicrosoftEdgeUpdate.exe\\\\\\\" /c\",\"parentUser\":\"NT AUTHORITY\\\\\\\\SYSTEM\"}}}",
+          "input": {
+            "type": "log"
+          },
+          "@timestamp": "2026-02-23T18:11:52.912Z",
+          "location": "EventChannel",
+          "id": "1771870312.6715317",
+          "timestamp": "2026-02-23T18:11:52.912+0000"
+        }
+      },
+      {
+        "_index": "wazuh-alerts-4.x-2026.02.23",
+        "_id": "bTKpi5wBm1jOToJvKr_l",
+        "_score": 1.0,
+        "_source": {
+          "cluster": {
+            "node": "worker01",
+            "name": "wazuh"
+          },
+          "agent": {
+            "ip": "10.21.232.224",
+            "name": "Windows_VM_Proxmox",
+            "id": "004"
+          },
+          "manager": {
+            "name": "wazuh.worker"
+          },
+          "data": {
+            "win": {
+              "eventdata": {
+                "originalFileName": "FileCoAuth.exe",
+                "image": "C:\\\\Users\\\\wagent\\\\AppData\\\\Local\\\\Microsoft\\\\OneDrive\\\\26.002.0105.0001\\\\FileCoAuth.exe",
+                "product": "Microsoft OneDrive",
+                "parentProcessGuid": "{7d2832c1-d8c4-698a-0d00-000000000c00}",
+                "description": "Microsoft OneDriveFile Co-Authoring Executable",
+                "logonGuid": "{7d2832c1-1dc1-698b-859d-2f0000000000}",
+                "parentCommandLine": "C:\\\\Windows\\\\system32\\\\svchost.exe -k DcomLaunch -p",
+                "processGuid": "{7d2832c1-95c2-699c-8f3d-000000000c00}",
+                "logonId": "0x2f9d85",
+                "parentProcessId": "844",
+                "processId": "7748",
+                "currentDirectory": "C:\\\\Windows\\\\system32\\\\",
+                "utcTime": "2026-02-23 18:00:34.993",
+                "hashes": "MD5=86DBAF64053ACB882122D974B3B27F9B,SHA256=DD6B10F45BB23A97C8F8ECAD9BE668727321CA373AEFE3D524A490E376C4A825,IMPHASH=92C20C0D6A0F19E3CA1906A89FA8E036",
+                "parentImage": "C:\\\\Windows\\\\System32\\\\svchost.exe",
+                "company": "Microsoft Corporation",
+                "commandLine": "\\\"C:\\\\Users\\\\wagent\\\\AppData\\\\Local\\\\Microsoft\\\\OneDrive\\\\26.002.0105.0001\\\\FileCoAuth.exe\\\" -Embedding",
+                "integrityLevel": "Medium",
+                "fileVersion": "26.002.0105.0001",
+                "user": "DESKTOP-5NEHIB8\\\\wagent",
+                "terminalSessionId": "1",
+                "parentUser": "NT AUTHORITY\\\\SYSTEM"
+              },
+              "system": {
+                "eventID": "1",
+                "keywords": "0x8000000000000000",
+                "providerGuid": "{5770385f-c22a-43e0-bf4c-06f5698ffbd9}",
+                "level": "4",
+                "channel": "Microsoft-Windows-Sysmon/Operational",
+                "opcode": "0",
+                "message": "\"Process Create:\r\nRuleName: -\r\nUtcTime: 2026-02-23 18:00:34.993\r\nProcessGuid: {7d2832c1-95c2-699c-8f3d-000000000c00}\r\nProcessId: 7748\r\nImage: C:\\Users\\wagent\\AppData\\Local\\Microsoft\\OneDrive\\26.002.0105.0001\\FileCoAuth.exe\r\nFileVersion: 26.002.0105.0001\r\nDescription: Microsoft OneDriveFile Co-Authoring Executable\r\nProduct: Microsoft OneDrive\r\nCompany: Microsoft Corporation\r\nOriginalFileName: FileCoAuth.exe\r\nCommandLine: \"C:\\Users\\wagent\\AppData\\Local\\Microsoft\\OneDrive\\26.002.0105.0001\\FileCoAuth.exe\" -Embedding\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: DESKTOP-5NEHIB8\\wagent\r\nLogonGuid: {7d2832c1-1dc1-698b-859d-2f0000000000}\r\nLogonId: 0x2F9D85\r\nTerminalSessionId: 1\r\nIntegrityLevel: Medium\r\nHashes: MD5=86DBAF64053ACB882122D974B3B27F9B,SHA256=DD6B10F45BB23A97C8F8ECAD9BE668727321CA373AEFE3D524A490E376C4A825,IMPHASH=92C20C0D6A0F19E3CA1906A89FA8E036\r\nParentProcessGuid: {7d2832c1-d8c4-698a-0d00-000000000c00}\r\nParentProcessId: 844\r\nParentImage: C:\\Windows\\System32\\svchost.exe\r\nParentCommandLine: C:\\Windows\\system32\\svchost.exe -k DcomLaunch -p\r\nParentUser: NT AUTHORITY\\SYSTEM\"",
+                "version": "5",
+                "systemTime": "2026-02-23T18:00:34.9955816Z",
+                "eventRecordID": "499769",
+                "threadID": "5100",
+                "computer": "DESKTOP-5NEHIB8",
+                "task": "1",
+                "processID": "3212",
+                "severityValue": "INFORMATION",
+                "providerName": "Microsoft-Windows-Sysmon"
+              }
+            }
+          },
+          "rule": {
+            "firedtimes": 1,
+            "mail": true,
+            "level": 12,
+            "description": "Microsoft Office Product Spawning Windows Shell",
+            "groups": [
+              "sysmon",
+              "sysmon_process-anomalies"
+            ],
+            "id": "255008"
+          },
+          "decoder": {
+            "name": "windows_eventchannel"
+          },
+          "full_log": "{\"win\":{\"system\":{\"providerName\":\"Microsoft-Windows-Sysmon\",\"providerGuid\":\"{5770385f-c22a-43e0-bf4c-06f5698ffbd9}\",\"eventID\":\"1\",\"version\":\"5\",\"level\":\"4\",\"task\":\"1\",\"opcode\":\"0\",\"keywords\":\"0x8000000000000000\",\"systemTime\":\"2026-02-23T18:00:34.9955816Z\",\"eventRecordID\":\"499769\",\"processID\":\"3212\",\"threadID\":\"5100\",\"channel\":\"Microsoft-Windows-Sysmon/Operational\",\"computer\":\"DESKTOP-5NEHIB8\",\"severityValue\":\"INFORMATION\",\"message\":\"\\\"Process Create:\\r\\nRuleName: -\\r\\nUtcTime: 2026-02-23 18:00:34.993\\r\\nProcessGuid: {7d2832c1-95c2-699c-8f3d-000000000c00}\\r\\nProcessId: 7748\\r\\nImage: C:\\\\Users\\\\wagent\\\\AppData\\\\Local\\\\Microsoft\\\\OneDrive\\\\26.002.0105.0001\\\\FileCoAuth.exe\\r\\nFileVersion: 26.002.0105.0001\\r\\nDescription: Microsoft OneDriveFile Co-Authoring Executable\\r\\nProduct: Microsoft OneDrive\\r\\nCompany: Microsoft Corporation\\r\\nOriginalFileName: FileCoAuth.exe\\r\\nCommandLine: \\\"C:\\\\Users\\\\wagent\\\\AppData\\\\Local\\\\Microsoft\\\\OneDrive\\\\26.002.0105.0001\\\\FileCoAuth.exe\\\" -Embedding\\r\\nCurrentDirectory: C:\\\\Windows\\\\system32\\\\\\r\\nUser: DESKTOP-5NEHIB8\\\\wagent\\r\\nLogonGuid: {7d2832c1-1dc1-698b-859d-2f0000000000}\\r\\nLogonId: 0x2F9D85\\r\\nTerminalSessionId: 1\\r\\nIntegrityLevel: Medium\\r\\nHashes: MD5=86DBAF64053ACB882122D974B3B27F9B,SHA256=DD6B10F45BB23A97C8F8ECAD9BE668727321CA373AEFE3D524A490E376C4A825,IMPHASH=92C20C0D6A0F19E3CA1906A89FA8E036\\r\\nParentProcessGuid: {7d2832c1-d8c4-698a-0d00-000000000c00}\\r\\nParentProcessId: 844\\r\\nParentImage: C:\\\\Windows\\\\System32\\\\svchost.exe\\r\\nParentCommandLine: C:\\\\Windows\\\\system32\\\\svchost.exe -k DcomLaunch -p\\r\\nParentUser: NT AUTHORITY\\\\SYSTEM\\\"\"},\"eventdata\":{\"utcTime\":\"2026-02-23 18:00:34.993\",\"processGuid\":\"{7d2832c1-95c2-699c-8f3d-000000000c00}\",\"processId\":\"7748\",\"image\":\"C:\\\\\\\\Users\\\\\\\\wagent\\\\\\\\AppData\\\\\\\\Local\\\\\\\\Microsoft\\\\\\\\OneDrive\\\\\\\\26.002.0105.0001\\\\\\\\FileCoAuth.exe\",\"fileVersion\":\"26.002.0105.0001\",\"description\":\"Microsoft OneDriveFile Co-Authoring Executable\",\"product\":\"Microsoft OneDrive\",\"company\":\"Microsoft Corporation\",\"originalFileName\":\"FileCoAuth.exe\",\"commandLine\":\"\\\\\\\"C:\\\\\\\\Users\\\\\\\\wagent\\\\\\\\AppData\\\\\\\\Local\\\\\\\\Microsoft\\\\\\\\OneDrive\\\\\\\\26.002.0105.0001\\\\\\\\FileCoAuth.exe\\\\\\\" -Embedding\",\"currentDirectory\":\"C:\\\\\\\\Windows\\\\\\\\system32\\\\\\\\\",\"user\":\"DESKTOP-5NEHIB8\\\\\\\\wagent\",\"logonGuid\":\"{7d2832c1-1dc1-698b-859d-2f0000000000}\",\"logonId\":\"0x2f9d85\",\"terminalSessionId\":\"1\",\"integrityLevel\":\"Medium\",\"hashes\":\"MD5=86DBAF64053ACB882122D974B3B27F9B,SHA256=DD6B10F45BB23A97C8F8ECAD9BE668727321CA373AEFE3D524A490E376C4A825,IMPHASH=92C20C0D6A0F19E3CA1906A89FA8E036\",\"parentProcessGuid\":\"{7d2832c1-d8c4-698a-0d00-000000000c00}\",\"parentProcessId\":\"844\",\"parentImage\":\"C:\\\\\\\\Windows\\\\\\\\System32\\\\\\\\svchost.exe\",\"parentCommandLine\":\"C:\\\\\\\\Windows\\\\\\\\system32\\\\\\\\svchost.exe -k DcomLaunch -p\",\"parentUser\":\"NT AUTHORITY\\\\\\\\SYSTEM\"}}}",
+          "input": {
+            "type": "log"
+          },
+          "@timestamp": "2026-02-23T18:00:38.998Z",
+          "location": "EventChannel",
+          "id": "1771869638.6680462",
+          "timestamp": "2026-02-23T18:00:38.998+0000"
+        }
+      },
+      {
+        "_index": "wazuh-alerts-4.x-2026.02.23",
+        "_id": "bzKqi5wBm1jOToJvFb9I",
+        "_score": 1.0,
+        "_source": {
+          "cluster": {
+            "node": "worker01",
+            "name": "wazuh"
+          },
+          "agent": {
+            "ip": "10.21.232.224",
+            "name": "Windows_VM_Proxmox",
+            "id": "004"
+          },
+          "manager": {
+            "name": "wazuh.worker"
+          },
+          "data": {
+            "win": {
+              "eventdata": {
+                "originalFileName": "FileCoAuth.exe",
+                "image": "C:\\\\Users\\\\wagent\\\\AppData\\\\Local\\\\Microsoft\\\\OneDrive\\\\26.002.0105.0001\\\\FileCoAuth.exe",
+                "product": "Microsoft OneDrive",
+                "parentProcessGuid": "{7d2832c1-d8c4-698a-0d00-000000000c00}",
+                "description": "Microsoft OneDriveFile Co-Authoring Executable",
+                "logonGuid": "{7d2832c1-1dc1-698b-859d-2f0000000000}",
+                "parentCommandLine": "C:\\\\Windows\\\\system32\\\\svchost.exe -k DcomLaunch -p",
+                "processGuid": "{7d2832c1-9602-699c-903d-000000000c00}",
+                "logonId": "0x2f9d85",
+                "parentProcessId": "844",
+                "processId": "5432",
+                "currentDirectory": "C:\\\\Windows\\\\system32\\\\",
+                "utcTime": "2026-02-23 18:01:38.968",
+                "hashes": "MD5=86DBAF64053ACB882122D974B3B27F9B,SHA256=DD6B10F45BB23A97C8F8ECAD9BE668727321CA373AEFE3D524A490E376C4A825,IMPHASH=92C20C0D6A0F19E3CA1906A89FA8E036",
+                "parentImage": "C:\\\\Windows\\\\System32\\\\svchost.exe",
+                "company": "Microsoft Corporation",
+                "commandLine": "\\\"C:\\\\Users\\\\wagent\\\\AppData\\\\Local\\\\Microsoft\\\\OneDrive\\\\26.002.0105.0001\\\\FileCoAuth.exe\\\" -Embedding",
+                "integrityLevel": "Medium",
+                "fileVersion": "26.002.0105.0001",
+                "user": "DESKTOP-5NEHIB8\\\\wagent",
+                "terminalSessionId": "1",
+                "parentUser": "NT AUTHORITY\\\\SYSTEM"
+              },
+              "system": {
+                "eventID": "1",
+                "keywords": "0x8000000000000000",
+                "providerGuid": "{5770385f-c22a-43e0-bf4c-06f5698ffbd9}",
+                "level": "4",
+                "channel": "Microsoft-Windows-Sysmon/Operational",
+                "opcode": "0",
+                "message": "\"Process Create:\r\nRuleName: -\r\nUtcTime: 2026-02-23 18:01:38.968\r\nProcessGuid: {7d2832c1-9602-699c-903d-000000000c00}\r\nProcessId: 5432\r\nImage: C:\\Users\\wagent\\AppData\\Local\\Microsoft\\OneDrive\\26.002.0105.0001\\FileCoAuth.exe\r\nFileVersion: 26.002.0105.0001\r\nDescription: Microsoft OneDriveFile Co-Authoring Executable\r\nProduct: Microsoft OneDrive\r\nCompany: Microsoft Corporation\r\nOriginalFileName: FileCoAuth.exe\r\nCommandLine: \"C:\\Users\\wagent\\AppData\\Local\\Microsoft\\OneDrive\\26.002.0105.0001\\FileCoAuth.exe\" -Embedding\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: DESKTOP-5NEHIB8\\wagent\r\nLogonGuid: {7d2832c1-1dc1-698b-859d-2f0000000000}\r\nLogonId: 0x2F9D85\r\nTerminalSessionId: 1\r\nIntegrityLevel: Medium\r\nHashes: MD5=86DBAF64053ACB882122D974B3B27F9B,SHA256=DD6B10F45BB23A97C8F8ECAD9BE668727321CA373AEFE3D524A490E376C4A825,IMPHASH=92C20C0D6A0F19E3CA1906A89FA8E036\r\nParentProcessGuid: {7d2832c1-d8c4-698a-0d00-000000000c00}\r\nParentProcessId: 844\r\nParentImage: C:\\Windows\\System32\\svchost.exe\r\nParentCommandLine: C:\\Windows\\system32\\svchost.exe -k DcomLaunch -p\r\nParentUser: NT AUTHORITY\\SYSTEM\"",
+                "version": "5",
+                "systemTime": "2026-02-23T18:01:38.9696727Z",
+                "eventRecordID": "499771",
+                "threadID": "5100",
+                "computer": "DESKTOP-5NEHIB8",
+                "task": "1",
+                "processID": "3212",
+                "severityValue": "INFORMATION",
+                "providerName": "Microsoft-Windows-Sysmon"
+              }
+            }
+          },
+          "rule": {
+            "firedtimes": 2,
+            "mail": true,
+            "level": 12,
+            "description": "Microsoft Office Product Spawning Windows Shell",
+            "groups": [
+              "sysmon",
+              "sysmon_process-anomalies"
+            ],
+            "id": "255008"
+          },
+          "decoder": {
+            "name": "windows_eventchannel"
+          },
+          "full_log": "{\"win\":{\"system\":{\"providerName\":\"Microsoft-Windows-Sysmon\",\"providerGuid\":\"{5770385f-c22a-43e0-bf4c-06f5698ffbd9}\",\"eventID\":\"1\",\"version\":\"5\",\"level\":\"4\",\"task\":\"1\",\"opcode\":\"0\",\"keywords\":\"0x8000000000000000\",\"systemTime\":\"2026-02-23T18:01:38.9696727Z\",\"eventRecordID\":\"499771\",\"processID\":\"3212\",\"threadID\":\"5100\",\"channel\":\"Microsoft-Windows-Sysmon/Operational\",\"computer\":\"DESKTOP-5NEHIB8\",\"severityValue\":\"INFORMATION\",\"message\":\"\\\"Process Create:\\r\\nRuleName: -\\r\\nUtcTime: 2026-02-23 18:01:38.968\\r\\nProcessGuid: {7d2832c1-9602-699c-903d-000000000c00}\\r\\nProcessId: 5432\\r\\nImage: C:\\\\Users\\\\wagent\\\\AppData\\\\Local\\\\Microsoft\\\\OneDrive\\\\26.002.0105.0001\\\\FileCoAuth.exe\\r\\nFileVersion: 26.002.0105.0001\\r\\nDescription: Microsoft OneDriveFile Co-Authoring Executable\\r\\nProduct: Microsoft OneDrive\\r\\nCompany: Microsoft Corporation\\r\\nOriginalFileName: FileCoAuth.exe\\r\\nCommandLine: \\\"C:\\\\Users\\\\wagent\\\\AppData\\\\Local\\\\Microsoft\\\\OneDrive\\\\26.002.0105.0001\\\\FileCoAuth.exe\\\" -Embedding\\r\\nCurrentDirectory: C:\\\\Windows\\\\system32\\\\\\r\\nUser: DESKTOP-5NEHIB8\\\\wagent\\r\\nLogonGuid: {7d2832c1-1dc1-698b-859d-2f0000000000}\\r\\nLogonId: 0x2F9D85\\r\\nTerminalSessionId: 1\\r\\nIntegrityLevel: Medium\\r\\nHashes: MD5=86DBAF64053ACB882122D974B3B27F9B,SHA256=DD6B10F45BB23A97C8F8ECAD9BE668727321CA373AEFE3D524A490E376C4A825,IMPHASH=92C20C0D6A0F19E3CA1906A89FA8E036\\r\\nParentProcessGuid: {7d2832c1-d8c4-698a-0d00-000000000c00}\\r\\nParentProcessId: 844\\r\\nParentImage: C:\\\\Windows\\\\System32\\\\svchost.exe\\r\\nParentCommandLine: C:\\\\Windows\\\\system32\\\\svchost.exe -k DcomLaunch -p\\r\\nParentUser: NT AUTHORITY\\\\SYSTEM\\\"\"},\"eventdata\":{\"utcTime\":\"2026-02-23 18:01:38.968\",\"processGuid\":\"{7d2832c1-9602-699c-903d-000000000c00}\",\"processId\":\"5432\",\"image\":\"C:\\\\\\\\Users\\\\\\\\wagent\\\\\\\\AppData\\\\\\\\Local\\\\\\\\Microsoft\\\\\\\\OneDrive\\\\\\\\26.002.0105.0001\\\\\\\\FileCoAuth.exe\",\"fileVersion\":\"26.002.0105.0001\",\"description\":\"Microsoft OneDriveFile Co-Authoring Executable\",\"product\":\"Microsoft OneDrive\",\"company\":\"Microsoft Corporation\",\"originalFileName\":\"FileCoAuth.exe\",\"commandLine\":\"\\\\\\\"C:\\\\\\\\Users\\\\\\\\wagent\\\\\\\\AppData\\\\\\\\Local\\\\\\\\Microsoft\\\\\\\\OneDrive\\\\\\\\26.002.0105.0001\\\\\\\\FileCoAuth.exe\\\\\\\" -Embedding\",\"currentDirectory\":\"C:\\\\\\\\Windows\\\\\\\\system32\\\\\\\\\",\"user\":\"DESKTOP-5NEHIB8\\\\\\\\wagent\",\"logonGuid\":\"{7d2832c1-1dc1-698b-859d-2f0000000000}\",\"logonId\":\"0x2f9d85\",\"terminalSessionId\":\"1\",\"integrityLevel\":\"Medium\",\"hashes\":\"MD5=86DBAF64053ACB882122D974B3B27F9B,SHA256=DD6B10F45BB23A97C8F8ECAD9BE668727321CA373AEFE3D524A490E376C4A825,IMPHASH=92C20C0D6A0F19E3CA1906A89FA8E036\",\"parentProcessGuid\":\"{7d2832c1-d8c4-698a-0d00-000000000c00}\",\"parentProcessId\":\"844\",\"parentImage\":\"C:\\\\\\\\Windows\\\\\\\\System32\\\\\\\\svchost.exe\",\"parentCommandLine\":\"C:\\\\\\\\Windows\\\\\\\\system32\\\\\\\\svchost.exe -k DcomLaunch -p\",\"parentUser\":\"NT AUTHORITY\\\\\\\\SYSTEM\"}}}",
+          "input": {
+            "type": "log"
+          },
+          "@timestamp": "2026-02-23T18:01:42.968Z",
+          "location": "EventChannel",
+          "id": "1771869702.6687974",
+          "timestamp": "2026-02-23T18:01:42.968+0000"
+        }
+      },
+      {
+        "_index": "wazuh-alerts-4.x-2026.02.23",
+        "_id": "fDKwi5wBm1jOToJvuL-Z",
+        "_score": 1.0,
+        "_source": {
+          "cluster": {
+            "node": "worker01",
+            "name": "wazuh"
+          },
+          "agent": {
+            "ip": "10.21.232.55",
+            "name": "HoneyPot",
+            "id": "003"
+          },
+          "manager": {
+            "name": "wazuh.worker"
+          },
+          "data": {
+            "tx_guessed": "true",
+            "tx_id": "1",
+            "app_proto": "smb",
+            "in_iface": "ens19",
+            "src_ip": "10.21.232.213",
+            "src_port": "51224",
+            "event_type": "alert",
+            "alert": {
+              "severity": "2",
+              "signature_id": "9002001",
+              "rev": "1",
+              "gid": "1",
+              "signature": "Local SMB Enumeration (SMB1)",
+              "action": "allowed",
+              "category": "Attempted Information Leak"
+            },
+            "flow_id": "973811193211105.000000",
+            "dest_ip": "10.21.232.55",
+            "proto": "TCP",
+            "dest_port": "445",
+            "pkt_src": "stream (flow timeout)",
+            "flow": {
+              "src_ip": "10.21.232.213",
+              "src_port": "51224",
+              "pkts_toserver": "6",
+              "dest_ip": "10.21.232.55",
+              "start": "2026-02-23T23:37:47.095661+0530",
+              "bytes_toclient": "379",
+              "bytes_toserver": "459",
+              "pkts_toclient": "5",
+              "dest_port": "445"
+            },
+            "timestamp": "2026-02-23T23:38:53.341992+0530",
+            "direction": "to_server"
+          },
+          "rule": {
+            "firedtimes": 10,
+            "mail": false,
+            "level": 3,
+            "description": "Suricata: Alert - Local SMB Enumeration (SMB1)",
+            "groups": [
+              "ids",
+              "suricata"
+            ],
+            "id": "86601"
+          },
+          "decoder": {
+            "name": "json"
+          },
+          "input": {
+            "type": "log"
+          },
+          "@timestamp": "2026-02-23T18:08:56.464Z",
+          "location": "/var/log/suricata/eve.json",
+          "id": "1771870136.6704649",
+          "timestamp": "2026-02-23T18:08:56.464+0000"
+        }
+      },
+      {
+        "_index": "wazuh-alerts-4.x-2026.02.23",
+        "_id": "bDKoi5wBm1jOToJv8L9R",
+        "_score": 1.0,
+        "_source": {
+          "cluster": {
+            "node": "worker01",
+            "name": "wazuh"
+          },
+          "agent": {
+            "ip": "10.21.232.55",
+            "name": "HoneyPot",
+            "id": "003"
+          },
+          "manager": {
+            "name": "wazuh.worker"
+          },
+          "data": {
+            "tx_guessed": "true",
+            "tx_id": "1",
+            "app_proto": "smb",
+            "in_iface": "ens19",
+            "src_ip": "10.21.232.57",
+            "src_port": "51485",
+            "event_type": "alert",
+            "alert": {
+              "severity": "2",
+              "signature_id": "9002001",
+              "rev": "1",
+              "gid": "1",
+              "signature": "Local SMB Enumeration (SMB1)",
+              "action": "allowed",
+              "category": "Attempted Information Leak"
+            },
+            "flow_id": "1709136433965384.000000",
+            "dest_ip": "10.21.232.55",
+            "proto": "TCP",
+            "dest_port": "445",
+            "pkt_src": "stream (flow timeout)",
+            "flow": {
+              "src_ip": "10.21.232.57",
+              "src_port": "51485",
+              "pkts_toserver": "6",
+              "dest_ip": "10.21.232.55",
+              "start": "2026-02-23T23:29:10.266867+0530",
+              "bytes_toclient": "379",
+              "bytes_toserver": "459",
+              "pkts_toclient": "5",
+              "dest_port": "445"
+            },
+            "timestamp": "2026-02-23T23:30:15.988489+0530",
+            "direction": "to_server"
+          },
+          "rule": {
+            "firedtimes": 1,
+            "mail": false,
+            "level": 3,
+            "description": "Suricata: Alert - Local SMB Enumeration (SMB1)",
+            "groups": [
+              "ids",
+              "suricata"
+            ],
+            "id": "86601"
+          },
+          "decoder": {
+            "name": "json"
+          },
+          "input": {
+            "type": "log"
+          },
+          "@timestamp": "2026-02-23T18:00:20.385Z",
+          "location": "/var/log/suricata/eve.json",
+          "id": "1771869620.6678885",
+          "timestamp": "2026-02-23T18:00:20.385+0000"
+        }
+      },
+      {
+        "_index": "wazuh-alerts-4.x-2026.02.23",
+        "_id": "eTKvi5wBm1jOToJv9b9D",
+        "_score": 1.0,
+        "_source": {
+          "cluster": {
+            "node": "worker01",
+            "name": "wazuh"
+          },
+          "agent": {
+            "ip": "10.21.232.55",
+            "name": "HoneyPot",
+            "id": "003"
+          },
+          "manager": {
+            "name": "wazuh.worker"
+          },
+          "data": {
+            "tx_guessed": "true",
+            "tx_id": "1",
+            "app_proto": "smb",
+            "in_iface": "ens19",
+            "src_ip": "10.21.232.48",
+            "src_port": "50782",
+            "event_type": "alert",
+            "alert": {
+              "severity": "2",
+              "signature_id": "9002001",
+              "rev": "1",
+              "gid": "1",
+              "signature": "Local SMB Enumeration (SMB1)",
+              "action": "allowed",
+              "category": "Attempted Information Leak"
+            },
+            "flow_id": "1651284999767512.000000",
+            "dest_ip": "10.21.232.55",
+            "proto": "TCP",
+            "dest_port": "445",
+            "pkt_src": "stream (flow timeout)",
+            "flow": {
+              "src_ip": "10.21.232.48",
+              "src_port": "50782",
+              "pkts_toserver": "5",
+              "dest_ip": "10.21.232.55",
+              "start": "2026-02-23T23:36:53.450005+0530",
+              "bytes_toclient": "379",
+              "bytes_toserver": "393",
+              "pkts_toclient": "5",
+              "dest_port": "445"
+            },
+            "timestamp": "2026-02-23T23:37:59.697408+0530",
+            "direction": "to_server"
+          },
+          "rule": {
+            "firedtimes": 7,
+            "mail": false,
+            "level": 3,
+            "description": "Suricata: Alert - Local SMB Enumeration (SMB1)",
+            "groups": [
+              "ids",
+              "suricata"
+            ],
+            "id": "86601"
+          },
+          "decoder": {
+            "name": "json"
+          },
+          "input": {
+            "type": "log"
+          },
+          "@timestamp": "2026-02-23T18:08:02.462Z",
+          "location": "/var/log/suricata/eve.json",
+          "id": "1771870082.6699918",
+          "timestamp": "2026-02-23T18:08:02.462+0000"
+        }
+      },
+      {
+        "_index": "wazuh-alerts-4.x-2026.02.23",
+        "_id": "djKui5wBm1jOToJvDL_7",
+        "_score": 1.0,
+        "_source": {
+          "cluster": {
+            "node": "worker01",
+            "name": "wazuh"
+          },
+          "agent": {
+            "ip": "10.21.232.55",
+            "name": "HoneyPot",
+            "id": "003"
+          },
+          "manager": {
+            "name": "wazuh.worker"
+          },
+          "data": {
+            "app_proto": "failed",
+            "in_iface": "ens19",
+            "src_ip": "10.21.232.55",
+            "src_port": "137",
+            "event_type": "alert",
+            "alert": {
+              "severity": "3",
+              "signature_id": "9001002",
+              "rev": "1",
+              "gid": "1",
+              "signature": "Local UDP Port Scan",
+              "action": "allowed",
+              "category": "Detection of a Network Scan"
+            },
+            "flow_id": "1448149569840040.000000",
+            "dest_ip": "10.21.233.12",
+            "proto": "UDP",
+            "dest_port": "137",
+            "pkt_src": "wire/pcap",
+            "flow": {
+              "src_ip": "10.21.232.55",
+              "src_port": "137",
+              "pkts_toserver": "1",
+              "dest_ip": "10.21.233.12",
+              "start": "2026-02-23T23:35:57.271637+0530",
+              "bytes_toclient": "0",
+              "bytes_toserver": "104",
+              "pkts_toclient": "0",
+              "dest_port": "137"
+            },
+            "timestamp": "2026-02-23T23:35:57.271637+0530",
+            "direction": "to_server"
+          },
+          "rule": {
+            "firedtimes": 4,
+            "mail": false,
+            "level": 3,
+            "description": "Suricata: Alert - Local UDP Port Scan",
+            "groups": [
+              "ids",
+              "suricata"
+            ],
+            "id": "86601"
+          },
+          "decoder": {
+            "name": "json"
+          },
+          "input": {
+            "type": "log"
+          },
+          "@timestamp": "2026-02-23T18:06:00.444Z",
+          "location": "/var/log/suricata/eve.json",
+          "id": "1771869960.6695490",
+          "timestamp": "2026-02-23T18:06:00.444+0000"
+        }
+      }
+    ]
+  }
+}
